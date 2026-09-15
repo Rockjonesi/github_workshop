@@ -36,6 +36,7 @@ Take 1 minute to
 
 ```{r}
 # Put your code here
+office_ratings <- readr::read_csv("https://www.math.carleton.edu/ckelling/data_science/office_ratings.csv")
 ```
 
 
